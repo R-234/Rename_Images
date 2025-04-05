@@ -1,1 +1,1 @@
-# new-project
+# Rename Images as per requirement
