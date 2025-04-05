@@ -157,7 +157,7 @@ import traceback
 
 # Configure page with centered layout
 st.set_page_config(
-    page_title="🖼️ Pro Image Processor",
+    page_title="🖼️ Image Rename Processor",
     page_icon="✨",
     layout="centered",
     initial_sidebar_state="collapsed"
